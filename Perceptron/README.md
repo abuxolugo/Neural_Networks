@@ -1,2 +1,2 @@
 # Perceptron
-An old-school perceptron programmed in PyTorch.
+An old-school, multilayer perceptron programmed in PyTorch.
